@@ -1,0 +1,7 @@
+{
+  "name": "Vivaah AI — Wedding Catalogue Assistant",
+  "description": "Conversational AI catalogue assistant for an Indian wedding event-management business, discovering mandaps, stages, decor, and complete wedding packages through natural language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
